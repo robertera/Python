@@ -1,0 +1,4 @@
+Este é um exemplo de um arquivo 
+que contem muitas linhas. Estas linhas, por
+sua vez, podem conter muitas palavras. Estas palavras
+podem conter muitas letras.
